@@ -1,7 +1,7 @@
 # on-the-way
 The world is so big i want to see
 
-## 香港
+## [香港](https://github.com/OLDMAN007/on-the-way/blob/master/HongKong.md)
   - 皇后大道东
   - 徒步跃龙脊
   
