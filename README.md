@@ -1,5 +1,5 @@
 # on-the-way
-The world is so big i want to see
+世界这么大，我想去看看
 
 ## [香港](https://github.com/OLDMAN007/on-the-way/blob/master/HongKong.md)
   - 皇后大道东
